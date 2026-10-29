@@ -1,3 +1,5 @@
-# Formroom support
+# Offline Intelligence support
 
-Public support and privacy pages for Formroom for iPhone. Publish the contents of `dist` with GitHub Pages. No app source or project data is included.
+Public support and privacy pages for Offline Intelligence for iPhone.
+
+https://adiityaa7.github.io/formroom-support/
